@@ -1,4 +1,4 @@
-# 🔎 FINDLY
+# 🔎 FINDING
 
 > A modern, centralized Lost & Found Management Platform designed to help individuals and organizations report, discover, track, and recover lost belongings through a simple, secure, and user-friendly digital experience.
 
@@ -11,7 +11,7 @@
 
 ## 📖 Overview
 
-**Findly** is a modern web-based Lost & Found platform that simplifies the process of reporting lost belongings and reconnecting people with their missing items across shared environments.
+**Finding** is a modern web-based Lost & Found platform that simplifies the process of reporting lost belongings and reconnecting people with their missing items across shared environments.
 
 Designed for educational institutions, healthcare facilities, shopping malls, corporate offices, and public venues, Findly provides a centralized platform where users can submit lost and found reports, search for items, track recovery progress, and communicate about potential matches.
 
@@ -80,7 +80,7 @@ The project uses HTML, CSS, and JavaScript to deliver a responsive user interfac
 ### Data & Development
 - Browser Local Storage for Demo Data
 - Git and GitHub
-- Netlify or Other Static Hosting Platforms
+- Netlify
 
 ---
 
@@ -101,8 +101,8 @@ The project uses HTML, CSS, and JavaScript to deliver a responsive user interfac
 
 ## 👨‍💻 Project Vision
 
-Findly aims to make lost-and-found management more reliable and convenient by connecting people with the right information through one organized digital platform.
+Finding aims to make lost-and-found management more reliable and convenient by connecting people with the right information through one organized digital platform.
 
-**Findly — A centralized lost-and-found solution for modern organizations.**
+**Finding — A centralized lost-and-found solution for modern organizations.**
 
 *Making lost-and-found management simpler, smarter, and more accessible.*

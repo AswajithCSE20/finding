@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-In%20Development-blue)
 
 ---
-
+🌐 Live Demo: https://lostfinding.netlify.app
 ## 📖 Overview
 
 **Finding** is a modern web-based Lost & Found platform that simplifies the process of reporting lost belongings and reconnecting people with their missing items across shared environments.
